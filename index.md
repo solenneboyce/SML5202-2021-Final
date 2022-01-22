@@ -8,7 +8,7 @@ Expressions Idiomatiques
 <p>Quand vous avec fini de lire, vous retrouverez la fiche récapitulative et un exercice interactif : vous pouvez le faire directement sur votre ordinateur, tablette ou téléphone! Bonne chance!</p>
 <ul>
 <p>1. Tenir la chandelle</p>
-  <img src='images/[img_tenir]' alt='tenir la chandelle' width="200" height="200" >
+ 
 <p>Cette expression est en rapport avec l’amour. Elle est utilisée quand on est seul en présence d’un couple et qu’on se sent de trop!
 Effectivement, une chandelle c’est comme une bougie, et on a l’impression d’être le chandelier (support destiné à recevoir des bougies).</p>
   <p>Exemple :</p>
